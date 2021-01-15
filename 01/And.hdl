@@ -15,4 +15,5 @@ CHIP And {
 
     PARTS:
     // Put your code here:
+    Nand(a=in, b=in, out=out); //a=in,b=in是內部皆限制外部
 }
