@@ -1,7 +1,7 @@
 # 第一章前六題
 ## NOT
-### PICTURE
 <img src = "./NOT.jpg">
+
 * CODE
 ```
 // This file is part of www.nand2tetris.org
@@ -24,8 +24,8 @@ CHIP Not {
 }
 ```
 ## AND
-### PICTURE
 <img src = "./AND.jpg">
+
 * CODE
 ```
 // This file is part of www.nand2tetris.org
@@ -50,8 +50,8 @@ CHIP And {
 }
 ```
 ## OR
-### PICTURE
 <img src = "./OR.jpg">
+
 * CODE
 ```
 // This file is part of www.nand2tetris.org
@@ -77,8 +77,8 @@ CHIP Or {
 }
 ```
 ## XOR
-### PICTURE
 <img src = "./XOR.jpg">
+
 * CODE
 ```
 // This file is part of www.nand2tetris.org
@@ -105,8 +105,8 @@ CHIP Xor {
 }
 ```
 ## MUX
-### PICTURE
 <img src = "./MUX.jpg">
+
 * CODE
 ```
 // This file is part of www.nand2tetris.org
@@ -134,8 +134,8 @@ CHIP Mux {
 }
 ```
 ## DMUX
-### PICTURE
 <img src = "./DMUX.jpg">
+
 * CODE
 ```
 // This file is part of www.nand2tetris.org
@@ -160,5 +160,4 @@ CHIP DMux {
     And(a = sel , b = in, out =b);
 }
 ```
-
 
