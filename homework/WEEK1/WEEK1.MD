@@ -1,6 +1,6 @@
 # 第一章前六題
 ## Picture
-
+! [image](https://github.com/tenkai0812/co109a/blob/master/homework/WEEK1/20210116_124531.jpg)
 ## NOT
 * CODE
 ```
