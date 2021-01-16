@@ -1,5 +1,8 @@
-# CODE 
-* 
+
+
+<img src = "./extra8.jpg">
+
+* code
 ```
 #include
 /*while(1)
