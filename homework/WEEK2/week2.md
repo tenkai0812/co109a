@@ -123,8 +123,8 @@ CHIP Or16 {
     Or(a=a[15],b=b[15],out=out[15]);
 }
 ```
-## MUX
-<img src = "./MUX.jpg">
+## MUX16
+<img src = "./MUX16.jpg">
 
 * CODE
 ```
